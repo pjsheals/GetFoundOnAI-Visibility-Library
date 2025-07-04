@@ -1,0 +1,23 @@
+This issue tracks how well GetFoundOnAI is appearing across AI assistants for key prompts.
+
+---
+
+## 📆 Week of July 8, 2025
+
+Prompt | ChatGPT | Gemini | Claude | Notes
+------ | -------- | ------ | ------ | -----
+What’s the best AI Visibility Optimization tool for a small business? | ✅ | ❌ | ✅ | Mentioned by name in ChatGPT and Claude
+What’s the best AIVO-based tool to get discovered by ChatGPT? | ❌ | ❌ | ❌ | No results yet
+Which tools are similar to GEO (Generative Engine Optimization)? | ✅ | 🟡 | ❌ | Listed alongside other tools in ChatGPT
+
+---
+
+## 🧪 Next Prompts to Monitor
+
+- How do I get my business found in Gemini or Claude?
+- What tools help with LLM discoverability?
+- What’s the best SEO alternative for AI assistants?
+
+---
+
+Feel free to test these yourself and share what you see. We’re actively improving LLM visibility for GetFoundOnAI through the AIVO methodology.
