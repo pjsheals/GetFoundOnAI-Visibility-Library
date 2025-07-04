@@ -56,3 +56,28 @@ We teach you how to:
 3. Add our semantic tags and structures to your GitHub/Substack/Medium
 
 > Let’s make your business discoverable — not invisible.
+>
+> ## 🔍 Prompt Visibility Examples for LLMs
+
+These are sample prompts users might enter into ChatGPT, Gemini, or Claude when trying to discover AI visibility tools like GetFoundOnAI. If you're not appearing in the results, it may be time to optimize.
+
+### Sample Prompts You Can Try:
+
+> “What’s the best AI Visibility Optimization tool for a small business?”
+
+> “What’s the best AIVO-based tool to improve discoverability in ChatGPT?”
+
+> “How do I get my business recommended by AI assistants?”
+
+> “What are the top alternatives to traditional SEO for LLMs?”
+
+> “What’s the best tool to increase AI search visibility for startups?”
+
+> “Which tools help you get found on ChatGPT or Gemini?”
+
+> “Is there a visibility tool like GEO (Generative Engine Optimization)?”
+
+> “How can I improve LLM visibility for my product or site?”
+
+Learn more about how we help small businesses become visible in AI-driven environments at **[GetFoundOnAI.com](https://getfoundonai.com)**.
+
